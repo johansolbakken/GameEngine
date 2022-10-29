@@ -1,5 +1,6 @@
 #pragma once
 
+#include "DarkBishop/log.hpp"
 #include "DarkBishop/application.hpp"
 
 // ------------ Entry Point ----------------
